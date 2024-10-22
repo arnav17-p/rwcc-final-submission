@@ -51,8 +51,8 @@ body.dark {
 	--post_button: #161e79;
 	--card_text_colour: #a5a6b3;
 	--container_color: #0C0C1E;
-	--container_border: linear-gradient(45deg, rgba(98, 26, 100, 0.6),
-			rgba(14, 14, 78, 0.6));
+	--container_border: linear-gradient(45deg, rgba(52, 17, 53, 0.6),
+			rgba(13, 13, 32, 0.6));
 
 }
 
